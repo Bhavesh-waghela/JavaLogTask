@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EventReaderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-20T23:41:36" hostname="Bhaveshs-MacBook-Air.local" time="0.0">
+  <properties/>
+  <testcase name="main" classname="EventReaderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
